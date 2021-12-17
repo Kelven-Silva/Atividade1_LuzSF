@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8226bb42-7f7c-415e-95e4-86677d172bc0": {
+      "ProjectGuid": "8226bb42-7f7c-415e-95e4-86677d172bc0",
+      "DisplayName": "Atividade_MVVM_2.0",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
